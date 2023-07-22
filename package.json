@@ -1,0 +1,20 @@
+{
+  "name": "styl2css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "stylus",
+    "converter"
+  ],
+  "author": "Htoo Pyae Lwin",
+  "license": "ISC",
+  "dependencies": {
+    "stylus": "^0.59.0",
+    "zx": "^7.2.3"
+  }
+}
